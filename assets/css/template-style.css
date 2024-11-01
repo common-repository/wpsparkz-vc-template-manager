@@ -1,0 +1,28 @@
+.vc_navgar-frontend #wstm_templates-editor-button {
+	background-position: 0 -55px;
+}
+
+#wstm_templates-editor-button {
+    display: block;
+    width: 60px;
+    height: 55px;
+    padding: 28px 30px;
+    cursor: pointer;
+    outline: 0;
+    background: url(../../../js_composer/assets/vc/navbar_controls.png);
+	background-position: 60px -55px;
+    -webkit-transition: background-color .2s ease-in-out;
+    		transition: background-color .2s ease-in-out;
+
+}
+
+wstm_templates-editor-button {
+	display: block;
+	width: 32px;
+	height: 32px;
+	padding: 28px 30px;
+	background-color: transparent;
+	background-position: center center !important;
+	background-repeat: no-repeat !important;
+	background-image: url(../images/layout-32px.png) !important;
+}
